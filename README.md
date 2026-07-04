@@ -17,8 +17,8 @@
 5. Created a public GitHub repository named `cursor-ai-setup`.
 6. Opened the repository in Cursor.
 7. Created this README file.
-8. Saved and committed the README to GitHub.
-
+8. Added the README to the GitHub repository and committed the changes.
+   
 ## Issues Encountered
 
 Initially, I had difficulty locating the Claude Code and Codex extensions because I was using Cursor's AI Home interface rather than the editor window. After switching to the editor and accessing the Extensions Marketplace, I successfully installed both extensions.
@@ -27,4 +27,4 @@ I also installed Git Command Line Tools on macOS to complete the Git setup.
 
 ## Outcome
 
-Successfully completed the Cursor setup, GitHub integration, repository creation, extension installation, documentation, and repository submission.
+Successfully completed the required setup, including Cursor installation, GitHub integration, repository creation, extension installation, documentation, and repository submission.
