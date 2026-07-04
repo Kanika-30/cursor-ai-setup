@@ -15,16 +15,16 @@
 5. Created a public GitHub repository named `cursor-ai-setup`.
 6. Cloned the repository into Cursor.
 7. Created this README file.
-8. Committed and pushed the changes to GitHub.
+8. Saved and committed the README to the GitHub repository.
 
 ## Issues Encountered
 
 The assignment instructed me to install the Claude Code and Codex add-ons from Cursor's Extensions marketplace.
 
-While using Cursor v3.9.16, I could not locate these add-ons. I explored the available interface, searched for the extensions, and verified the available plugin options. It appears that the current Cursor interface differs from the one referenced in the assignment instructions.
+While using Cursor v3.9.16, I could not locate the Claude Code or Codex add-ons. I searched the available interface, plugins, and editor options but could not find these extensions. It appears that the current Cursor interface differs from the one referenced in the assignment instructions.
 
 Rather than stopping, I documented the issue and completed the remaining setup steps, including GitHub integration and repository creation.
 
 ## Outcome
 
-Successfully completed the repository setup, GitHub integration, documentation, and version control workflow.
+Successfully completed the Cursor setup, GitHub integration, repository creation, documentation, and basic Git workflow while documenting the issue encountered during the extension installation step.
