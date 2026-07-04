@@ -18,7 +18,7 @@
 6. Opened the repository in Cursor.
 7. Created this README file.
 8. Added the README to the GitHub repository and committed the changes.
-   
+
 ## Issues Encountered
 
 Initially, I had difficulty locating the Claude Code and Codex extensions because I was using Cursor's AI Home interface rather than the editor window. After switching to the editor and accessing the Extensions Marketplace, I successfully installed both extensions.
