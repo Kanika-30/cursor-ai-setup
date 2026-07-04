@@ -5,26 +5,26 @@
 - Cursor IDE (Version 3.9.16)
 - Git
 - GitHub
+- Claude Code extension
+- Codex extension
 
 ## Steps Completed
 
 1. Installed Cursor IDE.
 2. Connected Cursor to my GitHub account.
-3. Attempted to install the Claude Code add-on.
-4. Attempted to install the Codex add-on.
+3. Installed the Claude Code extension.
+4. Installed the Codex extension.
 5. Created a public GitHub repository named `cursor-ai-setup`.
-6. Cloned the repository into Cursor.
+6. Opened the repository in Cursor.
 7. Created this README file.
-8. Saved and committed the README to the GitHub repository.
+8. Saved and committed the README to GitHub.
 
 ## Issues Encountered
 
-The assignment instructed me to install the Claude Code and Codex add-ons from Cursor's Extensions marketplace.
+Initially, I had difficulty locating the Claude Code and Codex extensions because I was using Cursor's AI Home interface rather than the editor window. After switching to the editor and accessing the Extensions Marketplace, I successfully installed both extensions.
 
-While using Cursor v3.9.16, I could not locate the Claude Code or Codex add-ons. I searched the available interface, plugins, and editor options but could not find these extensions. It appears that the current Cursor interface differs from the one referenced in the assignment instructions.
-
-Rather than stopping, I documented the issue and completed the remaining setup steps, including GitHub integration and repository creation.
+I also installed Git Command Line Tools on macOS to complete the Git setup.
 
 ## Outcome
 
-Successfully completed the Cursor setup, GitHub integration, repository creation, documentation, and basic Git workflow while documenting the issue encountered during the extension installation step.
+Successfully completed the Cursor setup, GitHub integration, repository creation, extension installation, documentation, and repository submission.
