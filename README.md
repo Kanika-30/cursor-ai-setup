@@ -44,7 +44,7 @@ I selected this topic because LinkedIn has become one of the most important orga
 - `research/sources.md`: Contains the selected topic, research objective, expert shortlist, and source links used for the assignment.
 - `research/linkedin-posts/`: Includes individual research notes on LinkedIn content from each expert, including their themes, observations, and practical lessons.
 - `research/youtube-transcripts/`: Contains YouTube transcript-based research and summaries for selected experts.
-- `research/other/`: Reserved for additional supporting research, notes, references, or materials that do not fit into the LinkedIn or YouTube categories.
+- `research/other/`: Reserved for patterns  observed across top B2B Linkedin creators
 
 ## Experts Researched
 
