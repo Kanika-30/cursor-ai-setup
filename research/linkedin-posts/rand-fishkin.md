@@ -8,9 +8,7 @@ His work is useful for LinkedIn organic content strategy because he helps market
 
 ## Current Company and Role
 
-Rand Fishkin is CEO and Co-Founder of SparkToro. SparkToro describes itself as a software company that makes high-quality market and audience research more accessible.
-
-Research note: LinkedIn profile pages are not reliably accessible through automated research, so his exact current LinkedIn headline should be manually verified from his profile.
+Rand Fishkin is the Co-founder and CEO of AlertMouse. He is also the co-founder of SparkToro and is widely recognized as one of the leading voices in SEO, audience research, AI search, zero-click marketing, and digital marketing strategy. Through his companies, research, and publications, Rand helps marketers understand how search behavior, AI, and consumer discovery are reshaping modern marketing.
 
 ## Biggest Achievements
 
@@ -44,7 +42,19 @@ Based on his public work, Rand's content themes include:
 - Content distribution
 - Market research
 
-Research note: His recent LinkedIn activity should be manually reviewed before using this file as a current post-by-post analysis.
+## Recent LinkedIn Content
+
+After reviewing Rand Fishkin's recent LinkedIn posts, I observed that his content focuses heavily on AI search, zero-click marketing, original research, audience behavior, and the future of digital marketing.
+
+His recent posts primarily cover:
+
+- AI search and its impact on marketing
+- Zero-click search trends
+- Original marketing research and industry reports
+- Audience behavior and brand discovery
+- SEO and content strategy
+- Practical resources for marketers
+- Case studies from well-known brands
 
 ## Newsletter / Podcast / Community
 
@@ -79,6 +89,28 @@ Rand also has a personal website and has written `Lost and Founder`. SparkToro's
 4. **Founder honesty can be a content advantage.** Transparent lessons are more memorable than polished corporate updates.
 
 5. **Build organic channels intentionally.** Sustainable growth needs more than paid acquisition.
+
+## My Observations
+
+After reviewing several of Rand Fishkin's recent LinkedIn posts, I noticed:
+
+- Most posts are backed by original research, industry reports, or real-world case studies rather than personal opinions.
+- He frequently discusses how AI search and zero-click experiences are changing traditional SEO and digital marketing.
+- His posts often include blogs, images, videos, or research reports to support his key arguments.
+- Rather than simply sharing news, he explains what marketers should learn from current industry changes.
+- His audience is highly engaged, with many experienced marketers contributing thoughtful discussions and insights in the comments.
+
+## Top Five Practical Lessons
+
+1. Support marketing decisions with research and data rather than assumptions.
+
+2. AI search is changing how people discover brands, requiring marketers to adapt beyond traditional SEO.
+
+3. Building an owned audience is becoming increasingly important as organic search traffic declines.
+
+4. Learn from real-world case studies to improve marketing strategies.
+
+5. Create educational content that helps marketers understand industry changes and take practical action.
 
 ## References
 
