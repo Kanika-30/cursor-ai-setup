@@ -28,3 +28,29 @@ I also installed Git Command Line Tools on macOS to complete the Git setup.
 ## Outcome
 
 Successfully completed the required setup, including Cursor installation, GitHub integration, repository creation, extension installation, documentation, and repository submission.
+
+---
+
+# Research Project
+
+## Topic Chosen
+
+**LinkedIn Organic Content Strategy for B2B SaaS**
+
+## Objective
+
+The objective of this project is to study how leading B2B SaaS marketers use LinkedIn to build their personal brands, educate their audience, generate demand, and create consistent organic growth.
+
+## Repository Structure
+
+```
+research/
+├── sources.md
+├── linkedin-posts/
+├── youtube-transcripts/
+└── other/
+```
+
+## Expected Outcome
+
+This repository will contain curated research from 10 industry experts, including LinkedIn posts, YouTube transcript summaries, and additional learning resources. The research will serve as the foundation for creating a practical playbook on LinkedIn organic content strategy for B2B SaaS.
