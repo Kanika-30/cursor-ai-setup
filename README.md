@@ -46,6 +46,14 @@ I selected this topic because LinkedIn has become one of the most important orga
 - `research/youtube-transcripts/`: Contains YouTube transcript-based research and summaries for selected experts.
 - `research/other/`: Reserved for patterns  observed across top B2B Linkedin creators
 
+research/
+├── linkedin-posts/        # Research on 10 B2B creators
+├── youtube-transcripts/   # Video transcript summaries
+├── other/                 # Cross-creator insights & patterns
+└── sources.md             # Research references
+
+scripts/                   # Helper scripts used during research
+
 ## Experts Researched
 
 1. Dave Gerhardt
