@@ -10,7 +10,7 @@ His work is important for LinkedIn organic content strategy because strong Linke
 
 Peep Laja is the founder of Wynter, CXL, and Speero. His personal website says he has built three companies: Wynter, CXL, and Speero. Wynter is an on-demand messaging and market research platform for B2B teams.
 
-Research note: LinkedIn profile pages are not reliably accessible through automated research, so his exact current LinkedIn headline should be manually verified from his profile.
+Peep Laja is the Founder and CEO of Wynter, a B2B SaaS platform that helps companies validate messaging, positioning, and marketing through real buyer research. He is widely recognized for his expertise in conversion optimization, customer research, positioning, AI marketing, and B2B growth strategy.
 
 ## Biggest Achievements
 
@@ -45,6 +45,20 @@ Based on his public work, Peep's content themes include:
 - How companies win in saturated markets
 
 Research note: His recent LinkedIn activity should be manually reviewed before using this file as a current post-by-post analysis.
+
+## Recent LinkedIn Content
+
+After reviewing Peep Laja's recent LinkedIn posts, I observed that his content has evolved beyond traditional conversion optimization and now focuses heavily on AI's impact on B2B marketing, positioning, customer research, pricing strategy, and go-to-market execution.
+
+His recent posts primarily cover:
+
+- AI's impact on marketing and buyer behavior
+- Customer research and ICP validation
+- Positioning strategy
+- AI pricing models
+- SaaS growth case studies
+- Market trends and Gartner research
+- Strategic decision-making for B2B leaders
 
 ## Newsletter / Podcast / Community
 
@@ -81,6 +95,28 @@ Wynter also publishes resources around B2B messaging, market research, surveys, 
 4. **Different is better than louder.** More content cannot compensate for weak differentiation.
 
 5. **Use LinkedIn to sharpen strategic thinking.** Posts can test arguments, positioning angles, and market beliefs.
+
+## My Observations
+
+After reviewing several of Peep Laja's LinkedIn posts, I noticed:
+
+- Almost every post starts with a surprising statistic, business insight, or real company example to capture attention.
+- Rather than giving generic marketing advice, he explains why successful companies make specific strategic decisions.
+- He frequently references Gartner reports, SaaS companies, industry data, and real business metrics to support his arguments.
+- Many posts discuss how AI is changing customer behavior, marketing measurement, positioning, and pricing.
+- His posts generate meaningful discussions, with professionals sharing their perspectives on AI, positioning, and SaaS growth.
+
+## Key Learnings
+
+1. Customer research remains the most valuable source of marketing insight, even in the age of AI.
+
+2. Positioning should evolve as markets and technology change.
+
+3. AI is changing how buyers research products, making traditional attribution less reliable.
+
+4. Successful marketers support their opinions with data, research, and real business examples.
+
+5. Pricing strategy is part of product positioning and should continuously evolve based on customer behavior.
 
 ## References
 
