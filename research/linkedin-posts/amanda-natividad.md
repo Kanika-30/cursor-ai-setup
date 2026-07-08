@@ -13,6 +13,7 @@ Amanda Natividad is Chief Evangelist at SparkToro, an audience research software
 Based on a manual review of Amanda Natividad's LinkedIn profile, she is currently the **Chief Evangelist at SparkToro**.
 
 At SparkToro, Amanda focuses on audience research, zero-click marketing, content distribution, brand awareness, and helping marketers understand how people discover and consume content beyond traditional search. She is widely recognized as one of the leading voices in organic B2B content strategy and zero-click marketing.
+
 ## Biggest Achievements
 
 Amanda's biggest achievements are tied to making modern content distribution more practical for marketers:
